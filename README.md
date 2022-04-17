@@ -67,36 +67,97 @@ Minecraft Java Editions
 [<img align="left" alt="Amazon" width="26px" src="https://github.com/WarthaDev/WarthaDev/blob/main/icons/amazon.svg" />][amazon]
 
 <br />
-
----
-
+<br />
 <br />
 
+---
 ### 5 MOD MERUBAH BLOCK DAN KARAKTER
+PERINGATAN
+
+Chisel membutuhkan library CTM untuk menjalankannya.
+
+- CTM :
+(https://www.curseforge.com/minecraft/mc-mods/ctm/files)
+
+Download Mods Secara Langsung 
+(Latest mods update : March 3, 2022)
+
+Shrink.
+1.18.1 : [Download](https://semawur.com/DCupe3ZNBkmb)
+1.17.1 :(https://semawur.com/Tz4QnTlB)
+1.16.5 : https://semawur.com/aTuq
+
+Smaller Units
+1.16.5 : https://semawur.com/sg4FzXZGMW
+1.15.2 : https://semawur.com/hevh0mcIhyK
+1.12.2 Beta : https://semawur.com/LOO9dN12Xc6
+
+Chisel & Bits
+1.18.1 : https://semawur.com/QO8VfPCrn
+1.17.1 : https://semawur.com/lcFBe2r
+1.16.5 : https://semawur.com/AqKEzI5p
+
+Chisel & Bits (Fabric)
+1.18.1 : https://semawur.com/FcgFGYjal
+
+Chisel
+1.16.5 Alpha : https://semawur.com/kLzT
+1.12.2 : https://semawur.com/VNfytcBNvwS
+1.10.2 Beta : https://semawur.com/iEqrfDCqX
+
+Budschie's Morph Mod
+1.18.1 : https://semawur.com/7vv63i1lSET
+1.17.1 : https://semawur.com/wz5jUJCl
+1.16.5 : https://semawur.com/bmEkJzMwzPT
+---
 ### 5 MOD MAKHLUK MENGERIKAN
+---
 ### 5 MOD MENJADIKAN MINECRAFT NYATA
+---
 ### 5 MOD SANS SMP SEASON 5 | PART 4 
-### 5 MOD SANS SMP SEASON 5 | PART 3 
-### 5 MOD SANS SMP SEASON 5 | PART 2 
+---
+### 5 MOD SANS SMP SEASON 5 | PART 3
+---
+### 5 MOD SANS SMP SEASON 5 | PART 2
+---
 ### 5 MOD TOOLS PERTANIAN
+---
 ### 5 MOD UNTUK PELIHARAAN
+---
 ### 5 MOD ALAT YANG SANGAT BERGUNA
+---
 ### 5 MOD SANS SMP SEASON 5
+---
 ### 5 MOD MEMUDAHKAN SURVIVAL KALIAN
+---
 ### 5 MOD TOP TOOLS SEDERHANA
+---
 ### 5 MOD SENJATA KEREN
+---
 ### 5 MOD TOP TAK BERGUNA TAPI BERGUNA
+---
 ### 5 MOD SANS SMP SEASON 4
+---
 ### 5 MOD TEKNOLOGI CANGGIH
+---
 ### 5 MOD YANG MEMUDAHKAN KINERJAMU DI SURVIVAL
+---
 ### 5 MOD TRAVELING & MALAM HARIMU NYAMAN DAN AMAN
+---
 ### 5 MOD MEMBUAT BARANG LANGKA DENGAN MUDAH
+---
 ### 5 MOD SANS SMP SEASON 2 | PART 2
+---
 ### 1 MOD DAPET 25 CINCIN YANG KEKUATANNYA MASING-MASING
+---
 ### 5 MOD BERSAHABAT & MEMBANTU KALIAN DI SURVIVAL
+---
 ### 5 MOD TERBANG DI MINECRAFT
-### 5 MOD BAHAN UNTUK MENJELAJAHI MINECRAF
+---
+### 5 MOD BAHAN UNTUK MENJELAJAHI MINECRAFT
+---
 ### 5 MOD SANS SMP SEASON 2 
+---
 
 [youtube]: https://youtube.com/c/warthasensei
 [discord]: https://discord.gg/sRMcaJtJdY
