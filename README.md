@@ -11,15 +11,15 @@
 - Kami 100% hanya penyedia atau perantara, untuk penghubung antara kamu dengan pihak penyedia yang sangat safe. Seperti curseforge.com
 - Dihari mendatang, kami akan membuat projek mod minecraft yang berbeda. Entah kapan...
 - Kami juga berharap akan menyediakan mod minecraft bedrock edition.
-- Video  yang  akan  datang kami akan  mengupload genre game  yang lain selain Minecraft  saja.
-- Jika kalian ini berkontribusi donasilah. Link ada  bipaling bawah  deskripsi. Menyediakan Paypal, Saweria.
+- Video yang  akan datang nanti, kami akan mengupload genre game  yang lain selain Minecraft  saja.
+- Jika kalian ini berkontribusi donasilah. Link ada  dibawah  deskripsi. Paypal dan Saweria.
 
 ## List Download Mods Minecraft Java Edition
 
 Minecraft Java Editions
 
-- 5 MOD MERUBAH BLOCK DAN KARAKTER [Download]()
-- 5 MOD SANS SMP SEASON 5 | PART 5 [Download]()
+- 5 MOD MERUBAH BLOCK DAN KARAKTER [Download](https://github.com/WarthaDev/WarthaSensei/edit/main/README.md#5-mod-merubah-block-dan-karakter)
+- 5 MOD SANS SMP SEASON 5 | PART 5 [Download](https://github.com/WarthaDev/WarthaSensei/edit/main/README.md#5-mod-sans-smp-season-5--part-5)
 - 5 MOD MAKHLUK MENGERIKAN [Download]()
 - 5 MOD MENJADIKAN MINECRAFT NYATA [Download]()
 - 5 MOD SANS SMP SEASON 5 | PART 4 [Download]()
@@ -72,45 +72,95 @@ Minecraft Java Editions
 
 ---
 ### 5 MOD MERUBAH BLOCK DAN KARAKTER
-PERINGATAN
+
+<br />
 
 Chisel membutuhkan library CTM untuk menjalankannya.
+-  CTM : [Download](https://www.curseforge.com/minecraft/mc-mods/ctm/files)
 
-- CTM :
-(https://www.curseforge.com/minecraft/mc-mods/ctm/files)
+<br />
 
-Download Mods Secara Langsung 
+Download Mods Secara Langsung dibawah ini.
 (Latest mods update : March 3, 2022)
 
+<br />
+
 Shrink.
-1.18.1 : [Download](https://semawur.com/DCupe3ZNBkmb)
-1.17.1 :(https://semawur.com/Tz4QnTlB)
-1.16.5 : https://semawur.com/aTuq
+- 1.18.1 : [Download](https://semawur.com/DCupe3ZNBkmb)
+- 1.17.1 : [Download](https://semawur.com/Tz4QnTlB)
+- 1.16.5 : [Download](https://semawur.com/aTuq)
 
 Smaller Units
-1.16.5 : https://semawur.com/sg4FzXZGMW
-1.15.2 : https://semawur.com/hevh0mcIhyK
-1.12.2 Beta : https://semawur.com/LOO9dN12Xc6
+- 1.16.5 : [Download](https://semawur.com/sg4FzXZGMW)
+- 1.15.2 : [Download](https://semawur.com/hevh0mcIhyK)
+- 1.12.2 Beta : [Download](https://semawur.com/LOO9dN12Xc6)
 
 Chisel & Bits
-1.18.1 : https://semawur.com/QO8VfPCrn
-1.17.1 : https://semawur.com/lcFBe2r
-1.16.5 : https://semawur.com/AqKEzI5p
+- 1.18.1 : [Download](https://semawur.com/QO8VfPCrn)
+- 1.17.1 : [Download](https://semawur.com/lcFBe2r)
+- 1.16.5 : [Download](https://semawur.com/AqKEzI5p)
 
 Chisel & Bits (Fabric)
-1.18.1 : https://semawur.com/FcgFGYjal
+- 1.18.1 : [Download](https://semawur.com/FcgFGYjal)
 
 Chisel
-1.16.5 Alpha : https://semawur.com/kLzT
-1.12.2 : https://semawur.com/VNfytcBNvwS
-1.10.2 Beta : https://semawur.com/iEqrfDCqX
+- 1.16.5 Alpha : [Download](https://semawur.com/kLzT)
+- 1.12.2 : [Download](https://semawur.com/VNfytcBNvwS)
+- 1.10.2 Beta : [Download](https://semawur.com/iEqrfDCqX)
 
 Budschie's Morph Mod
-1.18.1 : https://semawur.com/7vv63i1lSET
-1.17.1 : https://semawur.com/wz5jUJCl
-1.16.5 : https://semawur.com/bmEkJzMwzPT
+- 1.18.1 : [Download](https://semawur.com/7vv63i1lSET)
+- 1.17.1 : [Download](https://semawur.com/wz5jUJCl)
+- 1.16.5 : [Download](https://semawur.com/bmEkJzMwzPT)
+---
+### 5 MOD SANS SMP SEASON 5 | PART 5
+
+<br />
+
+MrCrayfish's Vehicle membutuhkan Obfuscate.
+- Obfuscate : [Download](https://www.curseforge.com/minecraft/mc-mods/obfuscate/files)
+
+The Endergetic Expansion membutuhkan Abnormals Core.
+- Abnormals Core : [Download](https://www.curseforge.com/minecraft/mc-mods/abnormals-core)
+
+<br />
+
+Download Mods Secara Langsung dibawah ini
+(Latest mods update : March 3, 2022)
+
+<br />
+
+MrCrayfish's Furniture  Mod
+- 1.18.1 Beta : [Download](https://semawur.com/Ma7bYP)
+- 1.17.1 Beta : [Download](https://semawur.com/otaIVr1gi)
+- 1.16.5 Beta : [Download](https://semawur.com/pw6yUmT)
+- 1.12.2 : [Download](https://semawur.com/0lyCHJdlwPt)
+
+MrCrayfish's Vehicle Mod
+- 1.16.5 Beta : [Download](https://semawur.com/tDf9DvcvPrw)
+- 1.15.2 Beta : [Download](https://semawur.com/jpVRM9iV7WPS)
+- 1.12.2 Beta : [Download](https://semawur.com/X3E69NdDt1jm)
+
+Carry On
+- 1.18.1 : [Download](https://semawur.com/1ng1q8V)
+- 1.17.1 Beta : [Download](https://semawur.com/FacyS)
+- 1.16.5 : [Download](https://semawur.com/4syEANrS8)
+- 1.15.2 Beta : [Download](https://semawur.com/NYZrYPcXq)
+- 1.14.4 Beta : [Download](https://semawur.com/YkzoP)
+- 1.13.2 Beta : [Download](https://semawur.com/4NqvApxvbbQ)
+- 1.12.2 : [Download](https://semawur.com/IDu8HgfgK0u)
+
+The Endergetic Expansion
+- 1.16.5 : [Download](https://semawur.com/rB3j2Fjq)
+- 1.15.2 : [Download](https://semawur.com/0mgk739N0)
+- 1.14.4 Beta : [Download](https://semawur.com/Ve3LJhSW)
+
+Calemi's Utilities
+- 1.16.5 : [Download](https://semawur.com/nelqELyzMrI3)
+- 1.15.2 : [Download](https://semawur.com/K3dqU)
 ---
 ### 5 MOD MAKHLUK MENGERIKAN
+
 ---
 ### 5 MOD MENJADIKAN MINECRAFT NYATA
 ---
