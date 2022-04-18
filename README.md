@@ -585,7 +585,7 @@ Scaling Health
 - 1.17.1 Beta : [Download](https://bit.ly/35jOZWa)
 - 1.16.5 : [Download](https://bit.ly/3HD6q0G)
 - 1.15.2 Beta : [Download](https://bit.ly/3IHs99d)
-v1.14.4 : [Download](https://bit.ly/3K1hJ4C)
+- 1.14.4 : [Download](https://bit.ly/3K1hJ4C)
 
 Alex's Mobs
 - 1.18.1 : [Download](https://bit.ly/3HCSYKu)
