@@ -7,7 +7,7 @@
 - Kami membuka sesi tanya jawab di perselisihan (Discord).
 - Kami juga terbuka untuk saran mod selanjutnya atau request selanjutnya untuk video di perselisihan (Discord).
 - Jika mod minecraft java edition telah diunggah dihalaman YouTube Wartha Sensei, maka link tautan download akan disisipkan dideskripsi dibawah halaman ini.
-- Kebanyakan tautan dibawah menggunakan mod forge. Tetepi jika ada fabric akan deberi tanda (fabric).
+- Kebanyakan tautan dibawah menggunakan mod forge. Tetepi jika ada fabric akan diberi tanda (fabric).
 - Mod forge & fabric tidak dapat dijalankan secara bersama. Dikarenakan metode saat pengembangannya berbeda.
 - Halaman ini bertujuan untuk para pencinta atau komunitas yang telah subcribe channel Wartha Sensei.
 - Kami 100% hanya penyedia atau perantara, untuk penghubung antara kamu dengan pihak penyedia yang sangat safe. Seperti curseforge.com
@@ -254,7 +254,7 @@ Supplementaries membutuhkan Selene Lib.
 - Selene Lib : [Download](https://www.curseforge.com/minecraft/mc-mods/selene/files)
 
 Dynamic Surroundings: Fabric Edition membutuhkan JAVA 16+, Fabric API (Versi 0.40.8+1.17) | Rekomendasi tambahan : ModMenu, Presence Footsteps.
-- Fabric Api : https://www.curseforge.com/minecraft/mc-mods/fabric-api/files[Download]()
+- Fabric Api : [Download](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files)
 
 <br />
 
@@ -545,6 +545,9 @@ Create
 ---
 
 ### 5 MOD SANS SMP SEASON 5
+
+<br />
+
 Enigmatic Legacy membutuhkan Patchouli, Curios.
 - Patchouli : [Download](https://www.curseforge.com/minecraft/mc-mods/patchouli/files)
 - Curios : [Download](https://www.curseforge.com/minecraft/mc-mods/curios/files/all)
@@ -1111,7 +1114,8 @@ Iron Jetpacks membutuhkan Cucumber agar mod bisa berjalan.
 <br />
 
 Sekarang sudah ada link video untuk mengisi bahan bakar (FE).
-- [YouTube Videos](https://youtu.be/y7GbCzybw3M) [Solar Flux Reborn](https://github.com/WarthaDev/WarthaSensei/blob/main/README.md#5-mod-teknologi-canggih)
+- [YouTube Videos](https://youtu.be/y7GbCzybw3M)
+- [Solar Flux Reborn](https://github.com/WarthaDev/WarthaSensei/blob/main/README.md#5-mod-teknologi-canggih)
 
 <br />
 
@@ -1158,7 +1162,8 @@ Iron Jetpacks membutuhkan Cucumber agar mod bisa berjalan.
 - Cucumber : [Download](https://www.curseforge.com/minecraft/mc-mods/cucumber/files)
 
 Sekarang sudah ada link video untuk mengisi bahan bakar (FE).
-- [YouTube Videos](https://youtu.be/y7GbCzybw3M) [Solar Flux Reborn](https://github.com/WarthaDev/WarthaSensei/blob/main/README.md#5-mod-teknologi-canggih)
+- [YouTube Videos](https://youtu.be/y7GbCzybw3M)
+- [Solar Flux Reborn](https://github.com/WarthaDev/WarthaSensei/blob/main/README.md#5-mod-teknologi-canggih)
 
 <br />
 
