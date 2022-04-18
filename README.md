@@ -7,7 +7,7 @@
 - Kami membuka sesi tanya jawab di perselisihan (Discord).
 - Kami juga terbuka untuk saran mod selanjutnya atau request selanjutnya untuk video di perselisihan (Discord).
 - Jika mod minecraft java edition telah diunggah dihalaman YouTube Wartha Sensei, maka link tautan download akan disisipkan dideskripsi dibawah halaman ini.
-- Kebanyakan tautan dubawah menggunakan mod forge. Tetepi jika ada fabric akan deberi tanda (fabric).
+- Kebanyakan tautan dibawah menggunakan mod forge. Tetepi jika ada fabric akan deberi tanda (fabric).
 - Mod forge & fabric tidak dapat dijalankan secara bersama. Dikarenakan metode saat pengembangannya berbeda.
 - Halaman ini bertujuan untuk para pencinta atau komunitas yang telah subcribe channel Wartha Sensei.
 - Kami 100% hanya penyedia atau perantara, untuk penghubung antara kamu dengan pihak penyedia yang sangat safe. Seperti curseforge.com
