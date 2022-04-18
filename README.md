@@ -20,7 +20,7 @@
 
 Minecraft Java Editions
 
-- 5 MOD MERUBAH BLOCK DAN KARAKTER [Download](https://github.com/WarthaDev/WarthaSensei/blob/main/README.md#5-mod-sans-smp-season-5--part-5)
+- 5 MOD MERUBAH TAMPILAN DAN KARAKTER [Download](https://github.com/WarthaDev/WarthaSensei/edit/main/README.md#5-mod-merubah-tampilan-dan-karakter)
 - 5 MOD SANS SMP SEASON 5 | PART 5 [Download](https://github.com/WarthaDev/WarthaSensei/blob/main/README.md#5-mod-sans-smp-season-5--part-5)
 - 5 MOD MAKHLUK MENGERIKAN [Download](https://github.com/WarthaDev/WarthaSensei/blob/main/README.md#5-mod-makhluk-mengerikan)
 - 5 MOD MENJADIKAN MINECRAFT NYATA [Download](https://github.com/WarthaDev/WarthaSensei/blob/main/README.md#5-mod-menjadikan-minecraft-nyata)
@@ -75,7 +75,7 @@ Minecraft Java Editions
 
 ---
 
-### 5 MOD MERUBAH BLOCK DAN KARAKTER
+### 5 MOD MERUBAH TAMPILAN DAN KARAKTER
 
 <br />
 
